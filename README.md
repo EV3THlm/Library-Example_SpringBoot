@@ -6,7 +6,7 @@
   <span>Resultados</span>
 </p>
 
-## Proyecto personal en Intellij IDE
+## Proyecto personal en Intellij IDA
 
 ### Requerimientos
 - Java 21
